@@ -1,0 +1,10 @@
+
+2
+java:S1643"Use a StringBuilder instead.(¡òœ“
+c
+java:S2095
+"HUse try-with-resources or close this "FileReader" in a "finally" clause.(Šª€òúÿÿÿÿ
+U
+java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ
+Y
+java:S1128">Remove this unused import 'java.nio.file.NoSuchFileException'.(È³Àøÿÿÿÿ
